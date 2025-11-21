@@ -2,5 +2,8 @@
 .navbar {
   padding: 1% 15%;
   background-color: red;
-
+margin-bottom: 7rem;
+}
+.search{
+  padding: 0 15%;
 }
