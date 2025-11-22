@@ -50,10 +50,10 @@ const emojipedia = [
   },
   {
     id: 8,
-    name: 'Heart Hands',
-    emoji: '🫶',
+    name: 'Thumbs Up',
+    emoji: '👍',
     meaning:
-      'Two hands forming a heart shape. Used to express love and support.This emoji currently showns the heart being made through two hands being curved into a C-shape with their thumbs touching. This is stereotypically referred to as the "Millennial Hand Heart".',
+      'A thumbs-up gesture indicating approval. In certain contexts, the thumbs-up emoji can be construed as passive-aggressive or sarcastic. Despite this possible use, it remains a popular means of quickly and earnestly expressing approval.',
   },
   {
     id: 9,
