@@ -3,6 +3,7 @@ import EmoCard from './Components/EmoCard';
 import Header from './Components/Header';
 import emojipedia from './Components/Emojipedia';
 import CreateEmoCard from './Components/CreateEmoCard';
+import Footer from './Components/Footer';
 
 function App() {
   return (
@@ -50,6 +51,9 @@ function App() {
           </div>
         </div> */}
       </main>
+      <footer>
+        <Footer />
+      </footer>
     </>
   );
 }
