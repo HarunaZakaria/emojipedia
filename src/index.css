@@ -20,6 +20,14 @@
   border: 1px solid #ebba34;
   box-shadow: 0, 2px 5px rgba(0, 0, 0, 0.3);
 }
+.emoji{
+  font-size: 38px;
+}
 .emoji-name {
   font-weight: 400;
+}
+/* Footer Section */
+.footer{
+  text-align: center;
+  padding: 100px 0 20px 0; 
 }
