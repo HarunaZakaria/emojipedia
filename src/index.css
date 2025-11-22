@@ -12,16 +12,25 @@
 
 .card {
   width: 20rem;
-  height: 200px;
+  height: 250px;
   display: flex;
   flex-direction: column;
   align-items: center;
+  text-align: center;
   padding: 10px;
   border: 1px solid #ebba34;
   box-shadow: 0, 2px 5px rgba(0, 0, 0, 0.3);
+  transform: all;
+}
+.card:hover{
+  background-color: rgb(231, 229, 229);
+  cursor: pointer;
 }
 .emoji{
   font-size: 38px;
+}
+.emoji:hover{
+  font-size: 50px;
 }
 .emoji-name {
   font-weight: 400;
